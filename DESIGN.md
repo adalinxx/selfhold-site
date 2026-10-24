@@ -21,9 +21,9 @@ These are observed presentation patterns, not measured conversion results or end
 
 Wallet main inspected at `32d5a3cd277a87de27a88fd0355e92ea29386fac`; package version 0.4.1. The README and privacy policy support local signing, an encrypted vault, review of sends and fees, node choice, Lattice parent/child chains, and encrypted backup files/QR codes.
 
-- [Wallet source](https://github.com/adalinxx/lattice-wallet)
-- [Privacy policy](https://github.com/adalinxx/lattice-wallet/blob/main/docs/privacy-policy.md)
-- [Security policy](https://github.com/adalinxx/lattice-wallet/blob/main/SECURITY.md)
+- [Wallet source](https://github.com/adalinxx/selfhold-wallet)
+- [Privacy policy](https://github.com/adalinxx/selfhold-wallet/blob/main/docs/privacy-policy.md)
+- [Security policy](https://github.com/adalinxx/selfhold-wallet/blob/main/SECURITY.md)
 - [Chrome listing](https://chromewebstore.google.com/detail/selfhold/amcobhbipbblfjonmoiicihhfglkhpce)
 
 The store URL returned HTTP 200. Direct public-store navigation in the available Chrome automation connection returned “Not allowed”, so the displayed live title/version could not be independently confirmed. Source version is not treated as proof of store availability. The page removes stale October 17 draft claims, avoids a numerical store-version assertion and directs users to the listing for current distribution details.
