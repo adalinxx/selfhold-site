@@ -28,7 +28,7 @@ Wallet main inspected at `32d5a3cd277a87de27a88fd0355e92ea29386fac`; package ver
 
 The store URL returned HTTP 200. Direct public-store navigation in the available Chrome automation connection returned “Not allowed”, so the displayed live title/version could not be independently confirmed. Source version is not treated as proof of store availability. The page removes stale October 17 draft claims, avoids a numerical store-version assertion and directs users to the listing for current distribution details.
 
-The current repository still supplies earlier-branded welcome and node-choice screenshots. Both are actual UI, contain no wallet credentials or personal data, and are explicitly described as documentation/earlier UI rather than a claim about the latest distributed interface. The approved Selfhold mark is unchanged. Screenshot bytes were inspected for identifying metadata.
+The welcome and node-choice screenshots were recaptured on 2026-10-24 from wallet main `60ea275`, after the Selfhold brand guidebook rollout (the S-key mark, system sans). They are actual UI from a disposable profile, with no credentials or personal data, shown at the popup's own proportions. They are described as current source, not as the distributed store version, which may still show the earlier look. The approved Selfhold mark is unchanged. Screenshot bytes were inspected for identifying metadata.
 
 [Moniker](https://github.com/adalinxx/moniker/blob/main/README.md) suggests a tangible future ecosystem path (a handle/profile), but live compatibility and a reliable public HTTPS entry point were not verified. It is deliberately not promoted as an immediately working install-to-use journey.
 
